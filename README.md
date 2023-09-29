@@ -10,12 +10,10 @@ This example showcases the implementation of a Virtual DOM, which is a simplifie
 
 1. Clone this repository to your local machine:
 
-`bash git clone <repository_url>`
+```bash
+git clone <repository_url>
+```
 
 2. Open the index.html file in a web browser.
 
 3. Observe the Virtual DOM example in action, where the displayed count updates every second.
-
-```
-
-```
